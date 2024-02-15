@@ -5,6 +5,8 @@
 - 👋 Hi, I’m @Abdulrahmann-Omar, I'm Multi-passionate about computer science
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 👀 I’m interested in Machine Learning, Deep Learning, NLP, AI
+
+
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/abdulrahman-omar-87121b200/" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Omar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
