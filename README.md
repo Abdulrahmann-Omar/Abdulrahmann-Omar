@@ -1,41 +1,94 @@
-<h3 align="center">
-  Welcome to Abdu Omar's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+Credit Card Fraud Detection using Machine Learning
 
-- 👋 Hi, I’m @Abdulrahmann-Omar, I'm Multi-passionate about computer science.
+This project focuses on detecting fraudulent credit card transactions using machine learning techniques. The dataset used for this project is sourced from Kaggle's "Credit Card Fraud Detection" dataset, which contains anonymized transaction data and a binary label indicating whether a transaction is fraudulent or not.
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+Project Overview
 
-- 👀 I’m interested in Machine Learning, Deep Learning, NLP, AI.
+The primary goal of this project is to build and evaluate a machine learning model that can accurately classify transactions as fraudulent or legitimate. The dataset is highly imbalanced, with a very small percentage of transactions being fraudulent, making this a challenging classification problem.
 
+Features
 
-### Connect with Me :
+Data Preprocessing: Handling class imbalance, scaling features, and splitting data into training and testing sets.
 
-<a href="https://www.linkedin.com/in/abdulrahman-omar-87121b200/" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Omar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abdoooo2233" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Omar-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+Exploratory Data Analysis (EDA): Visualizing patterns in the dataset and understanding the distribution of features.
 
-<!---
-Abdulrahmann-Omar/Abdulrahmann-Omar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Model Training: Implementing and training multiple machine learning algorithms such as Logistic Regression, Random Forest, and Gradient Boosting.
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![C#](https://camo.githubusercontent.com/4b645f4b9da6e6f8c6d5edc408f4b786805678aaffc90555893cb13f6b726b02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d7768697465)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-red.svg?style=flat&logo=c++)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+Evaluation: Assessing model performance using metrics such as precision, recall, F1-score, and ROC-AUC.
+
+Hyperparameter Tuning: Fine-tuning model parameters to optimize performance.
+
+Technologies Used
+
+Programming Language: Python
+
+Libraries:
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+XGBoost (if applicable)
+
+Dataset
+
+The dataset contains transactions made by European cardholders in September 2013. It consists of 31 features:
+
+Features V1 to V28: Result of a PCA transformation.
+
+Time: Seconds elapsed between each transaction and the first transaction in the dataset.
+
+Amount: Transaction amount.
+
+Class: Binary label (1 for fraudulent transactions, 0 for legitimate transactions).
+
+Dataset Source
+
+Credit Card Fraud Detection
+
+How to Run the Project
+
+Clone this repository:
+
+git clone https://github.com/yourusername/credit-card-fraud-detection.git
+cd credit-card-fraud-detection
+
+Install the required libraries:
+
+pip install -r requirements.txt
+
+Download the dataset from Kaggle and place it in the data/ directory:
+
+Kaggle Dataset Link
+
+Run the notebook:
+
+jupyter notebook Fraud_Detection_ML_Final.ipynb
+
+Results
+
+The final model achieved a recall score of X.XX, indicating its ability to detect fraudulent transactions effectively.
+
+Precision and F1-score were optimized to handle the dataset's imbalance.
+
+ROC-AUC: X.XX
+
+Challenges
+
+Imbalanced Dataset: The dataset contains only 0.17% fraudulent transactions, requiring careful handling of class imbalance.
+
+Feature Engineering: Understanding and working with anonymized PCA features.
+
+Future Improvements
+
+Incorporate deep learning models such as autoencoders for anomaly detection.
+
+Experiment with additional techniques for handling class imbalance, such as SMOTE or ADASYN.
+
+Deploy the model as a web application using Flask or FastAPI.
