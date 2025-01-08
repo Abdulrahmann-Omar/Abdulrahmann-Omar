@@ -47,15 +47,15 @@ The dataset contains transactions made by European cardholders in September 2013
    ```bash
 pip install -r requirements.txt
 Download the dataset from Kaggle and place it in the data/ directory: Kaggle Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
+```
 3. Run the notebook:
-
+ ```bash
 jupyter notebook Fraud_Detection_ML_Final.ipynb
-
-Challenges
+```
+## Challenges
 Imbalanced Dataset: The dataset contains only 0.17% fraudulent transactions, requiring careful handling of class imbalance.
 Feature Engineering: Understanding and working with anonymized PCA features.
 
-Future Improvements
+## Future Improvements
 Incorporate deep learning models such as autoencoders for anomaly detection.
 Deploy the model as a web application using Flask or FastAPI.
