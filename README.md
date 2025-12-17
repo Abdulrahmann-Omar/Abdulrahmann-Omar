@@ -102,6 +102,13 @@ I actively read cutting-edge research and implement concepts in production-ready
 
 ### 3️⃣ Following Thought Leaders
 
+**Active Following:**
+- 🔬 **Denny Zhou** (Google DeepMind) — Chain-of-Thought reasoning
+- 🔬 **Shunyu Yao** (Princeton) — ReAct, Tree of Thoughts
+- 🔬 **Omar Khattab** (Stanford) — DSPy framework
+- 🔬 **Jerry Liu** (LlamaIndex) — RAG systems
+- 🔬 **Harrison Chase** (LangChain) — Agent frameworks
+
 I stay current by following researchers whose work shapes the field and engaging with the research community through paper reproductions, arXiv discussions, and technical threads.
 
 ---
@@ -160,7 +167,7 @@ Deep Learning • NLP • Computer Vision • Data Mining • Algorithm Design �
 
 ---
 
-### 💼 Data Science Intern | *[Sigma EMEA](https://www.sigma-emea.com/)* | Aug 2023 — Oct 2025
+### 💼 Data Science Intern | *[Sigma EMEA](https://www.sigma-emea.com/)* | Aug 2025 — Oct 2025
 
 **Focus:** Recommendation systems and customer analytics for telecom
 
