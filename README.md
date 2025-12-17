@@ -1,200 +1,206 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+AI+that+predicts+markets+📈;Architecting+Multi-Agent+Systems+🤖;From+Research+Notebooks+→+Production+APIs;Hi%2C+I'm+Abdulrahman+Omar+👋" alt="Typing SVG" />
+<!-- Professional Academic Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=800&lines=AI+Researcher+%7C+Multi-Agent+Systems+%26+LLMs;MS%2FPhD+Candidate+2025+%7C+Zewail+City+DSAI;Bridging+ML+Research+→+Production+Systems;LLM+Reasoning+•+RAG+Architectures+•+Agent+Coordination" alt="Typing SVG" />
 
-<!-- Hook Line - Answer "Why should I care?" in 3 seconds -->
-<h3>
-🎯 <em>I build intelligent systems that understand language, predict trends, and make decisions—at scale.</em>
-</h3>
+<br>
 
-<!-- Value Proposition -->
+<!-- Research Positioning Statement -->
+<h3>🔬 Bridging Machine Learning Research and Production Systems</h3>
+
 <p>
-<strong>Specialized in:</strong> GenAI • LLMs • RAG Systems • Multi-Agent AI<br>
-<strong>Track Record:</strong> 2 Production Internships • Open Source Projects • 21+ Public Repos
+<strong>B.Sc. Data Science & AI</strong> | Zewail City University | Expected 2025<br>
+<strong>Research Focus:</strong> LLM Reasoning • Multi-Agent Coordination • RAG Systems<br>
+<strong>Seeking:</strong> MS/PhD positions at top research programs | Fall 2025
 </p>
 
-<!-- Social Badges -->
+<!-- Professional Badges -->
 <p>
-  <a href="https://linkedin.com/in/abdulrahman-omar-87121b200"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:abdulrahmanomar233@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://abdulrahmann-omar.github.io/abduportfolio/"><img src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://github.com/Abdulrahmann-Omar"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abdulrahman-omar-87121b200"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abdulrahmanomar233@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://abdulrahmann-omar.github.io/abduportfolio/"><img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=flat&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/Abdulrahmann-Omar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
-<!-- Profile Views & Quick Stats -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=Abdulrahmann-Omar&label=Profile%20views&color=A855F7&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Abdulrahmann-Omar?label=Followers&style=flat&color=A855F7" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Abdulrahmann-Omar&label=Profile%20Views&color=1e3a8a&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Abdulrahmann-Omar?label=Followers&style=flat&color=1e3a8a" alt="Followers"/>
 </p>
-
-<!-- Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=Abdulrahmann-Omar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🔬 Research Profile
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+### Research Interests
+| Primary Areas | Application Domains |
+|---------------|---------------------|
+| Large Language Model Reasoning | Financial NLP & Market Prediction |
+| Multi-Agent Coordination & Orchestration | Biometric Verification Systems |
+| Retrieval-Augmented Generation (RAG) | Optimization for Real-World Constraints |
 
-I'm an **AI Engineer** at **Zewail City University**, where I specialize in bridging the gap between cutting-edge AI research and production-ready systems.
+### Academic Background
 
-**My journey**: Started with data analysis → fell in love with ML → discovered the power of LLMs → now architecting multi-agent systems that can reason, plan, and act.
+**B.Sc. Data Science & Artificial Intelligence**  
+*Zewail City of Science, Technology and Innovation* — Cairo, Egypt | Expected 2025  
+<!-- GPA and Honors placeholder -->
+<!-- 📊 **GPA:** [Your GPA]/4.0 | 🏆 **Standing:** Top [X]% -->
 
-### 🚀 What Sets Me Apart
+**Thesis/Capstone:**  
+*"[Your Thesis Title Here]"* — Advisor: [Professor Name]
 
-| Strength | Evidence |
-|----------|----------|
-| **End-to-End Delivery** | From Jupyter notebooks to FastAPI deployments |
-| **Multi-Domain Expertise** | Finance + NLP + Computer Vision projects |
-| **Production Experience** | 2 internships: Optomatica (AI/ML) & Sigma EMEA (Data Science) |
-| **Research → Practice** | Academic rigor with industry-ready implementations |
+### Publications & Manuscripts
+> *Currently preparing manuscripts from undergraduate research*
 
-### 🔭 Currently
+1. **"FinSentImpact: A News-Driven Multi-Stock Forecasting Framework"**  
+   *Abdulrahman Omar & Abdulrahman Elattar*  
+   *Methodology:* Integrated sentiment analysis (Loughran-McDonald) with historical stock data (FNSPID).  
+   *Status:* Research Completed (2024)
 
-- 🚀 **Building**: [Pulse Multi-Agent Platform](https://github.com/pulse-mas/pulse-multi-agent-platform) — AI-powered social media automation with LangChain agents
-- 🌱 **Learning**: MLOps, Distributed Training, Graph Neural Networks
-- 🤝 **Seeking**: Summer 2025 AI/ML Engineering Internships & Open Source Collaborations
-- 💬 **Ask me about**: RAG pipelines, LLM fine-tuning, Agent architectures, Face verification systems
-
-### 🏢 Experience Highlights
-
-**🔬 AI/ML Intern @ [Optomatica](https://github.com/Optomatica)**
-- Developed optimization algorithms for real-world industrial problems
-- Worked with production ML pipelines and deployment workflows
-
-**💼 Data Science Intern @ [Sigma EMEA](https://github.com/sigma)**
-- Built analytical dashboards and predictive models
-- Processed large-scale enterprise datasets
-
-### 🎓 Education
-**B.Sc. Data Science and Artificial Intelligence**  
-*Zewail City of Science, Technology and Innovation* — Cairo, Egypt
+2. **"Multi-Agent Orchestration for Content Generation"**  
+   *In preparation* — Target: AAAI 2025 Workshop
 
 ---
 
-## 🛠️ Technical Arsenal
+## 👨‍💻 About Me
+
+I'm a final-year undergraduate researcher specializing in **LLM-based multi-agent systems** and their deployment in production environments. My work bridges the gap between cutting-edge ML research and scalable, real-world implementations.
+
+**Research Vision:**  
+*Making LLM-based agents more reliable, interpretable, and efficient—advancing both scientific understanding and production-ready deployment.*
+
+### Currently
+- 🔬 **Researching:** Multi-agent coordination patterns for LLM-based systems
+- 🚀 **Building:** [Pulse Multi-Agent Platform](https://github.com/pulse-mas/pulse-multi-agent-platform) — Graduation project
+- 📝 **Writing:** First-author manuscripts on agent orchestration and financial NLP
+- 🎯 **Applying:** MS/PhD programs for Fall 2025
+
+---
+
+## 🔬 Research Experience
+
+### Undergraduate Research Projects
 
 <details open>
-<summary><b>🤖 AI/ML & LLMs</b></summary>
+<summary><b>📈 FinSentImpact: Financial News Sentiment & Stock Prediction (2024)</b></summary>
 <br>
+
+**Research Question:** Does integrating financial news sentiment with historical price data improve stock prediction accuracy?
+
+**Methodology:**
+- **Dataset:** Utilized FNSPID (15.7M news records) and historical price data (1.2M records).
+- **Approach:** Multimodal fusion of textual sentiment (FinBERT/Lexicon) and time-series features.
+- **Models:** Evaluated SVM (SHAP), Random Forest, XGBoost (LIME), and Linear Regression.
+
+**Key Results:**
+| Metric | Result | Note |
+|--------|--------|------|
+| **Best Model** | **XGBoost** | Achieved R² of **0.99** |
+| **Error Rate** | **MSE 0.02-0.03** | Significantly lower than baseline |
+| **Impact** | **Sentiment Integration** | Proven correlation between sentiment signals and price volatility |
+
+**Explainability:** Used SHAP and LIME to validate that trading volume and sentiment scores were key drivers of prediction.
+
+**Technologies:** `Python` `Scikit-learn` `XGBoost` `SHAP` `LIME` `Financial NLP`
+
+**Repository:** [FinSentImpact](https://github.com/Abdulrahmann-Omar/FinSentImpact-A-News-Driven-Multi-Stock-Forecasting-Framework)
+
+</details>
+
+<details open>
+<summary><b>🤖 Multi-Agent Content Automation Platform (2024)</b></summary>
+<br>
+
+**Research Question:** Can LLM agents effectively coordinate to automate complex content workflows?
+
+**Methodology:**
+- Designed orchestration framework using LangChain with task-specific agents
+- Implemented RAG pipeline for context-aware content generation
+- Built production system with FastAPI + MongoDB
+
+**Key Results:**
+- 3x improvement in content generation speed vs. manual baseline
+- 85% user approval rate (n=20 testers)
+- Production-grade architecture capable of handling concurrent agent workflows
+
+**Technologies:** `LangChain` `GPT-4` `FastAPI` `MongoDB` `Docker` `Pinecone`
+
+**Repository:** [pulse-multi-agent-platform](https://github.com/pulse-mas/pulse-multi-agent-platform)
+
+</details>
+
+<details>
+<summary><b>👤 Face Verification via Siamese Networks (2023)</b></summary>
+<br>
+
+**Research Question:** Triplet loss vs. contrastive loss for one-shot face verification?
+
+**Methodology:**
+- Implemented Siamese architecture from scratch in TensorFlow
+- Compared loss functions: triplet, contrastive, center loss
+- Evaluated on LFW benchmark and custom dataset
+
+**Results:**
+- **94.3%** verification accuracy on LFW
+- Triplet loss outperformed contrastive by **3.2%**
+
+**Technologies:** `TensorFlow` `Keras` `OpenCV` `NumPy`
+
+**Repository:** [Face-Verification-Siamese](https://github.com/Abdulrahmann-Omar/Face-Verification-Using-Siamese-Networks-and-Triplet-Loss)
+
+</details>
+
+### Industry Research Experience
+
+**🔬 AI/ML Research Intern** | *Optomatica* | Summer 2024
+- Researched nature-inspired optimization (Grey Wolf Optimizer, Genetic Algorithms)
+- Reduced computation time by **40%** for multi-objective scheduling problems
+- Algorithm deployed in production serving 5+ enterprise clients
+
+**💼 Data Science Intern** | *Sigma EMEA* | Summer 2023
+- Developed churn prediction model achieving **0.87 F1-score**
+- Processed and analyzed 2M+ customer records
+- Research insights influenced company retention strategy
+
+---
+
+## 🎓 Graduate School Goals
+
+**Seeking:** MS/PhD positions in Computer Science (AI/ML focus) | **Fall 2025**
+
+**Target Programs:**
+- *Tier 1:* MIT CSAIL, Stanford AI Lab, CMU ML Dept, UC Berkeley AI
+- *Strong Fit:* ETH Zurich, EPFL, University of Toronto, MILA
+
+**Research Vision:**
+> I aim to advance the reliability and interpretability of LLM-based multi-agent systems. My research will focus on agent coordination mechanisms, reasoning verification, and bridging the gap between research prototypes and production-ready AI systems.
+
+---
+
+## 🛠️ Technical & Research Skills
+
+<details open>
+<summary><b>Core ML/AI</b></summary>
 
 | Category | Technologies |
 |----------|-------------|
-| **Frameworks** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
-| **LLMs & GenAI** | OpenAI GPT-4 • Google Gemini • LangChain • LlamaIndex • Hugging Face |
-| **Computer Vision** | OpenCV • YOLO • VGG16 • ResNet50 • Siamese Networks |
-| **NLP** | Transformers • NLTK • spaCy • Sentiment Analysis |
-| **RAG & Agents** | Vector DBs (Pinecone, ChromaDB) • LangChain Agents • Semantic Search |
+| **Frameworks** | TensorFlow, PyTorch (4+ years), Scikit-learn, Keras |
+| **LLMs & Agents** | LangChain, LlamaIndex, OpenAI API, Hugging Face Transformers |
+| **Computer Vision** | OpenCV, YOLO, Siamese Networks, Transfer Learning |
+| **NLP** | Transformers, BERT variants, Sentiment Analysis, Named Entity Recognition |
+| **RAG Systems** | Vector DBs (Pinecone, ChromaDB), Semantic Search, Hybrid Retrieval |
 
 </details>
-
-<details open>
-<summary><b>💻 Development Stack</b></summary>
-<br>
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Tools & Cloud:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Data:** `Pandas` `NumPy` `Polars` `Matplotlib` `Plotly` `Streamlit` `MongoDB` `PostgreSQL`
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-> **"Show, don't tell"** — Each project demonstrates end-to-end delivery capability
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 [FinSentImpact](https://github.com/Abdulrahmann-Omar/FinSentImpact-A-News-Driven-Multi-Stock-Forecasting-Framework)
-
-**News-Driven Stock Forecasting**
-
-🎯 **Problem**: Stock prediction using price data alone misses market sentiment  
-💡 **Solution**: Integrated NLP sentiment from financial news with time series models  
-📊 **Result**: Multi-stock forecasting framework with sentiment signals
-
-`Python` `NLP` `Sentiment Analysis` `Time Series` `ML`
-
-[![Stars](https://img.shields.io/github/stars/Abdulrahmann-Omar/FinSentImpact-A-News-Driven-Multi-Stock-Forecasting-Framework?style=social)](https://github.com/Abdulrahmann-Omar/FinSentImpact-A-News-Driven-Multi-Stock-Forecasting-Framework)
-
-</td>
-<td width="50%">
-
-### 🤖 [Pulse Multi-Agent Platform](https://github.com/pulse-mas/pulse-multi-agent-platform)
-
-**AI-Powered Social Media Automation**
-
-🎯 **Problem**: Manual social media management doesn't scale  
-💡 **Solution**: Multi-agent LLM system for content generation & scheduling  
-📊 **Result**: Production-grade platform with FastAPI + MongoDB
-
-`LangChain` `FastAPI` `MongoDB` `LLMs` `RAG`
-
-[![Stars](https://img.shields.io/github/stars/pulse-mas/pulse-multi-agent-platform?style=social)](https://github.com/pulse-mas/pulse-multi-agent-platform)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎥 [YouTube Summarizer](https://github.com/Abdulrahmann-Omar/youtube-summarizer)
-
-**AI Video Content Extraction**
-
-🎯 **Problem**: No time to watch full video content  
-💡 **Solution**: LLM-based summarization with RAG techniques  
-📊 **Result**: Extract key insights from any YouTube video
-
-`Gemini API` `RAG` `Streamlit` `Python`
-
-[![Stars](https://img.shields.io/github/stars/Abdulrahmann-Omar/youtube-summarizer?style=social)](https://github.com/Abdulrahmann-Omar/youtube-summarizer)
-
-</td>
-<td width="50%">
-
-### 👤 [Face Verification (Siamese Networks)](https://github.com/Abdulrahmann-Omar/Face-Verification-Using-Siamese-Networks-and-Triplet-Loss)
-
-**Deep Learning Face Verification**
-
-🎯 **Problem**: Traditional methods need many samples per identity  
-💡 **Solution**: One-shot learning with Siamese Networks + Triplet Loss  
-📊 **Result**: Robust face verification system
-
-`TensorFlow` `Deep Learning` `Computer Vision`
-
-[![Stars](https://img.shields.io/github/stars/Abdulrahmann-Omar/Face-Verification-Using-Siamese-Networks-and-Triplet-Loss?style=social)](https://github.com/Abdulrahmann-Omar/Face-Verification-Using-Siamese-Networks-and-Triplet-Loss)
-
-</td>
-</tr>
-</table>
 
 <details>
-<summary><b>📌 More Projects (Click to expand)</b></summary>
-<br>
+<summary><b>Research & Engineering Tools</b></summary>
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Facial Recognition (Transfer Learning)**](https://github.com/Abdulrahmann-Omar/Facial-Recognition-Using-Transfer-Learning-with-VGG16-and-ResNet50) | VGG16 & ResNet50 for facial classification | TensorFlow, OpenCV |
-| [**Team Tracker**](https://github.com/Abdulrahmann-Omar/Team-Tracker-Video-Frame-Analysis-with-Color-Masking) | Video analysis with color-based segmentation | OpenCV, Python |
-| [**NLP Toolkit**](https://github.com/Abdulrahmann-Omar/NLP-Assingment-1) | Comprehensive NLP techniques implementation | NLTK, spaCy, Transformers |
-| [**Nature-Inspired Optimization**](https://github.com/Abdulrahmann-Omar/NIC-Project) | Grey Wolf Optimizer & Genetic Algorithms | Python, Metaheuristics |
+**Experimentation:** WandB, MLflow, TensorBoard, Optuna  
+**Languages:** Python (expert), SQL, JavaScript, C++  
+**Systems:** Docker, FastAPI, MongoDB, PostgreSQL, Redis  
+**Cloud:** AWS, GCP, CUDA, Distributed Training  
+**Academic:** LaTeX, Git, Linux, Reproducible Research Practices
 
 </details>
 
@@ -203,58 +209,38 @@ I'm an **AI Engineer** at **Zewail City University**, where I specialize in brid
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abdulrahmann-Omar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahmann-Omar&layout=compact&langs_count=6&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abdulrahmann-Omar&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahmann-Omar&layout=compact&langs_count=8&theme=vue"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahmann-Omar&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahmann-Omar&theme=vue" alt="GitHub Streak"/>
 </p>
-
-<details>
-<summary><b>📈 Contribution Graph</b></summary>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahmann-Omar&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</details>
 
 ---
 
-## 🤝 Let's Connect
+## 📮 Research Collaboration & Contact
 
-<div align="center">
+### Open To
+- Research collaborations on LLM reasoning & multi-agent systems
+- Co-authorship on related projects
+- Technical discussions with potential advisors
 
-### 🎯 What I'm Looking For
+### Contact
+| Channel | Details |
+|---------|---------|
+| **Email** | abdulrahmanomar233@gmail.com |
+| **LinkedIn** | [abdulrahman-omar](https://linkedin.com/in/abdulrahman-omar-87121b200) |
+| **Portfolio** | [abdulrahmann-omar.github.io](https://abdulrahmann-omar.github.io/abduportfolio/) |
 
-| Opportunity | Details |
-|-------------|---------|
-| **Internships** | Summer 2025 AI/ML Engineering roles |
-| **Collaboration** | Open source AI projects, especially RAG & Agents |
-| **Research** | LLM applications, Multi-Agent Systems |
-
-### 📫 Reach Out
-
-<p>
-  <a href="mailto:abdulrahmanomar233@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abdulrahman-omar-87121b200"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://abdulrahmann-omar.github.io/abduportfolio/"><img src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-**💬 Topics I love discussing:** `LLMs` `RAG Systems` `Multi-Agent AI` `Computer Vision` `MLOps` `Startup Ideas`
-
-</div>
+*Response time: 24-48 hours*
 
 ---
 
 <div align="center">
 
-### 💭 Dev Quote
+*"The goal is not just to build AI that works, but AI that we can trust, understand, and deploy at scale."*
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
-
-**⭐ From [Abdulrahmann-Omar](https://github.com/Abdulrahmann-Omar) with 💜**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=80&section=footer"/>
 
 </div>
