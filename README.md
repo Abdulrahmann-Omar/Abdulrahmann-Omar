@@ -56,7 +56,7 @@
 1. **"FinSentImpact: A News-Driven Multi-Stock Forecasting Framework"**  
    *Abdulrahman Omar & Abdulrahman Elattar*  
    *Methodology:* Integrated sentiment analysis (Loughran-McDonald) with historical stock data (FNSPID).  
-   *Status:* Research Completed (2024)
+   *Status:* [Research Completed](https://github.com/Abdulrahmann-Omar/DSAI-Course-Repository/blob/main/Year-3/Semester-2/DSAI-305-Interpretability-Explainability-AI/Research%20Paper/FinSentImpact_%20A%20News-Driven%20Multi-Stock%20Forecasting%20Framework.pdf) (2024)
 
 2. **"Multi-Agent Orchestration for Content Generation"**  
    *In preparation* — Target: AAAI 2025 Workshop
