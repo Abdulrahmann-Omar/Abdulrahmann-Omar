@@ -11,7 +11,7 @@
 <p>
 <strong>B.Sc. Data Science & AI</strong> | Zewail City University | Expected 2025<br>
 <strong>Research Focus:</strong> LLM Reasoning • Multi-Agent Coordination • RAG Systems<br>
-<strong>Seeking:</strong> MS/PhD positions at top research programs | Fall 2025
+<strong>Seeking:</strong> MS/PhD positions at top research programs | Fall 2026
 </p>
 
 <!-- Professional Badges -->
